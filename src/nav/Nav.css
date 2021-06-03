@@ -1,0 +1,14 @@
+.navBar ul {
+    display: flex;
+    justify-content: center;
+    
+    /* margin: 0 auto;
+    text-align: center; */
+}
+.navBar li {
+    padding-left: 13px;
+}
+.navBar {
+    
+    background-color: rgb(19, 95, 42);
+}
